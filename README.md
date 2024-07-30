@@ -1,5 +1,5 @@
 ### Mateus Dos Santos Schiavo
-- Estou estudando na [Alura](https://www.alura.com.br)
+- ### Estou estudando na [Alura](https://www.alura.com.br)
 - 
 - Estou me desenvolvendo na linguagem JavaScript 
 - 📘Estudande do Ensino Médio
